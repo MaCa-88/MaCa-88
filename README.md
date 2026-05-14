@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
-  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="600" />
+  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="300" />
 </p>
 
 ### Tarjeta de Desarrollo PIC16F628A
