@@ -1,7 +1,9 @@
 # ¡Hola! Soy Manuel (MaCa) 👋
 
-<img src="./IMG-20250512-WA0000.jpg" width="600" />
-
+<p align="center">
+  <img src="./IMG-20250512-WA0000.jpg" width="800" />
+<p align="center">
+  
 ### Hardware and Software Enthusiast | Controlnica
 
 <p align="center">
@@ -10,7 +12,7 @@
     
   <!-- Tarjeta de Racha de Actividad -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCa-88&theme=radical" alt="Racha de Actividad de MaCa" width="400" />
-</p>
+<p align="center">
 
 ---
 
