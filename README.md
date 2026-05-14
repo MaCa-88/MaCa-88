@@ -5,8 +5,6 @@
 <p align="center">
   <!-- Tarjeta de Estadísticas: He actualizado el enlace para que funcione -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaCa-88&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de MaCa-88" width="400" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MaCa-88&show_icons=true&theme=radical" alt="Estadísticas de MaCa" width="400" />
     
   <!-- Tarjeta de Racha de Actividad -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCa-88&theme=radical" alt="Racha de Actividad de MaCa" width="400" />
@@ -14,11 +12,11 @@
 
 ---
 
-## 🛠️ Mi Proyecto Destacado
+## 🛠️ Algunas Tarjetas Fabricadas
 
 <p align="center">
   <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
-  <img src="https://github.com/MaCa-88/PIC16F628A-Development-Board" alt="Tarjeta PIC16F628A" width="600" />
+  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="600" />
 </p>
 
 ### Tarjeta de Desarrollo PIC16F628A
