@@ -2,22 +2,22 @@
 
 ### Hardware and Software Enthusiast | Controlnica
 
+## 🛠️ Algunas Tarjetas Fabricadas
+
 <p align="center">
-  <!-- Tarjeta de Estadísticas: He actualizado el enlace para que funcione -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MaCa-88&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de MaCa-88" width="400" />
+  <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
+  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="150" />
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas: -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MaCa-88&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de MaCa-88" width="400" />
     
   <!-- Tarjeta de Racha de Actividad -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCa-88&theme=radical" alt="Racha de Actividad de MaCa" width="400" />
 </p>
 
 ---
-
-## 🛠️ Algunas Tarjetas Fabricadas
-
-<p align="center">
-  <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
-  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="200" />
-</p>
 
 ### Tarjeta de Desarrollo PIC16F628A
 
