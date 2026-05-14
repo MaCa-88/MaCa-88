@@ -1,5 +1,7 @@
 # ¡Hola! Soy Manuel (MaCa) 👋
 
+<img src="./IMG-20250512-WA0000.jpg" width="150" />
+
 ### Hardware and Software Enthusiast | Controlnica
 
 <p align="center">
@@ -15,7 +17,8 @@
 ## 🛠️ Algunas Tarjetas Fabricadas
 
 <p align="center">
-  <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
+  <img src="./IMG-20230425-WA0000 (2).jpg" alt="Tarjetas PCB" width="150" />
+  <img src="./IMG-20230922-WA0007 (2).jpg" alt="Tarjetas PCB" width="150" />
   <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="150" />
 </p>
 
