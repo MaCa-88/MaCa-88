@@ -1,6 +1,6 @@
 # ¡Hola! Soy Manuel (MaCa) 👋
 
-<img src="./IMG-20250512-WA0000.jpg" width="150" />
+<img src="./IMG-20250512-WA0000.jpg" width="600" />
 
 ### Hardware and Software Enthusiast | Controlnica
 
