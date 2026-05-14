@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Reemplaza la imagen por la URL de tu proyecto destacada -->
-  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="300" />
+  <img src="./IMG-20240202-WA0007 (2).jpg" alt="Tarjetas PCB" width="200" />
 </p>
 
 ### Tarjeta de Desarrollo PIC16F628A
@@ -34,6 +34,7 @@ Esta es una tarjeta de desarrollo completa diseñada para trabajar con el microc
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=61551887737289)
 [<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">](https://www.tiktok.com/@manuelcacique_)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/manuelcacique_/)
 [<img src="https://img.shields.io/badge/Web-Controlnica-blue?style=for-the-badge">](https://controlnica.com)
 
 ---
